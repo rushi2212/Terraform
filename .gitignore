@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+.env
+npm-debug.log
+
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json

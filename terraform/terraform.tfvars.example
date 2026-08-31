@@ -1,0 +1,8 @@
+aws_region = "ap-south-1"
+
+instance_type = "t2.micro"
+
+
+key_name = "terraform-key"
+
+ami_id = "ami-01a00762f46d584a1"
